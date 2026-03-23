@@ -14,7 +14,6 @@
   keywords={Remote sensing;Semantics;Semantic segmentation;Transformers;Adaptation models;Feature extraction;Convolutional neural networks;Computational modeling;Accuracy;Training;Open-vocabulary semantic segmentation;remote sensing image segmentation;scale variation;varying orientations},
   doi={10.1109/TGRS.2025.3559557}}
 
-```bibtex
  @ARTICLE{11215798,
   author={Zhang, Xiaokang and Zhou, Chufeng and Huang, Jianzhong and Zhang, Lefei},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
